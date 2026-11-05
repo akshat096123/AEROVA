@@ -1,6 +1,6 @@
-# VayuVision
+# AEROVA
 
-VayuVision is a front-end prototype for a Delhi NCR air-quality and climate-awareness dashboard. It brings together an AQI display, pollutant composition chart, pollution-zone map, GRAP information, and an EV-map view.
+AEROVA is a front-end prototype for a Delhi NCR air-quality and climate-awareness dashboard. It brings together an AQI display, pollutant composition chart, pollution-zone map, GRAP information, and an EV-map view.
 
 > **Prototype note:** The current dashboard uses sample AQI, pollutant, and location values in the JavaScript. It is not connected to a verified live sensor or EV-station API. Treat displayed values as demo data, not real-time public-health or travel guidance.
 
